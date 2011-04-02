@@ -1,0 +1,7 @@
+A very rudimentary implementation of Monopoly.
+
+This was written back in mid-1991.  It was my first "major" project using
+C++.  I like to think my C++ has come a long way since then.
+
+I can't even try to build it anymore because I don't run Windows, but if you
+had an old enough Borland C++ compiler environment, you might be able to.

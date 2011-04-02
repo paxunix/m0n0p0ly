@@ -1,0 +1,8 @@
+[OPTIONS]
+INDEX=main_index
+TITLE=Monopoly
+COMPRESS=TRUE
+
+[FILES]
+monopoly.rtf
+
